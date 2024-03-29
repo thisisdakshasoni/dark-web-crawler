@@ -6,8 +6,9 @@
   
 </head>
 <body>
-
 <header>
+     <img src="https://th.bing.com/th/id/OIG3.f.dxp0XXBWifyj6UVfdK?pid=ImgGn" alt="Web Crawler" style="max-width: 100%; display: block; margin: 0 auto;">
+    <h1>Web Crawler and Content Analyzer</h1>
     <h1> DarkWeb Crawler and Content Analyzer</h1>
     <p>This is a web crawler and content analyzer application built with Python. It allows users to input a URL, crawl the website, and analyze various aspects such as keyword occurrences, text sentiment, meta tags, links, images, and more.</p>
 </header>
