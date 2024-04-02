@@ -28,7 +28,7 @@
 <section id="prerequisites">
     <h2>Prerequisites</h2>
     <ul>
-        <li>Python 3.x</li>
+        <li>Python 3.11</li>
         <li>Flask</li>
         <li>Requests</li>
         <li>BeautifulSoup4</li>
